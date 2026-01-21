@@ -1,14 +1,35 @@
 title: "Alex Atanassov"
-description: "Robotics + ML Portfolio"
+description: "Robotics + Perception + ML — SLAM, planning, segmentation, deployment."
+
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-# optional
 minimal_mistakes_skin: "dark"
 
-header_pages:
-  - index.md
-  - projects.md
-  - blog.md
-  - about.md
+# Author profile (shows on pages that have author_profile: true)
+author:
+  name: "Alex Atanassov"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "M.S. EE at UC San Diego focused on robotics, perception, and machine learning (SLAM, planning, segmentation, deployment)."
+
+# Optional: adds rich metadata + some theme features
+locale: "en-US"
+
+# Social links (used for SEO + can be used by theme components)
+social:
+  type: "Person"
+  name: "Alex Atanassov"
+  links:
+    - "https://github.com/alexatanassov"
+    - "https://www.linkedin.com/in/alexatanassov/"
+
+# Footer icon links
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/alexatanassov"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/alexatanassov/"
