@@ -42,6 +42,6 @@ feature_row:
 </p>
 
 ## Summary
-Hi, I’m **Alex Atanassov** — an M.S. EE student focused on **robotics, perception, and machine learning**. I build end-to-end systems and evaluate them with clear metrics, demos, and reproducible code.
+Hi, I’m **Alex Atanassov**. M.S. Electrical Engineering from **UC San Diego**, focused on **ML for perception** (segmentation, deployment) and **robotics** (SLAM, planning). I build end-to-end systems and evaluate them with clear metrics, demos, and reproducible code.
 
 {% include feature_row %}
