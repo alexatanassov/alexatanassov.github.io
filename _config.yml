@@ -1,6 +1,8 @@
 title: "Alex Atanassov"
 description: "Robotics + ML Portfolio"
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 
-# Optional but nice:
-author: "Alex Atanassov"
+# optional
+minimal_mistakes_skin: "air"
