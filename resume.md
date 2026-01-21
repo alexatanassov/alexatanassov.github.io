@@ -5,8 +5,8 @@ permalink: /resume/
 author_profile: true
 ---
 
-**Download PDF:** [AlexAtanassov_Resume.pdf](/assets/files/Resume_AI_SWE.pdf)
-**Alternate (Autonomy/Robotics):** [Resume_AI_SWE2.pdf](/assets/files/Resume_Robotics.pdf)
+**Download PDF:** [AlexAtanassov_Resume.pdf](/assets/files/AlexAtanassov_Resume_AI_SWE.pdf)
+**Alternate (Autonomy/Robotics):** [AlexAtanassov_Resume_Robotics.pdf](/assets/files/AlexAtanassov_Resume_Robotics.pdf)
 
 ## Summary
 M.S. Electrical Engineering student at UC San Diego focused on robotics, perception, and ML. Experienced in Python/C++, ROS2/Gazebo, semantic segmentation, and deployment-minded ML workflows.
