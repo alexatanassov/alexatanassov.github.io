@@ -7,6 +7,7 @@ excerpt: "M.S. EE at UCSD focused on robotics, perception, and machine learning 
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
+  overlay_image: /assets/images/headshot.jpg
   actions:
     - label: "Projects"
       url: "/projects/"
