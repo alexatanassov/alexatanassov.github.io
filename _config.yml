@@ -6,3 +6,9 @@ plugins:
 
 # optional
 minimal_mistakes_skin: "air"
+
+header_pages:
+  - index.md
+  - projects.md
+  - blog.md
+  - about.md
