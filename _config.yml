@@ -5,7 +5,7 @@ plugins:
   - jekyll-include-cache
 
 # optional
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 
 header_pages:
   - index.md
