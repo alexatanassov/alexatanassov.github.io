@@ -7,7 +7,6 @@ excerpt: "M.S. EE at UCSD focused on robotics, perception, and machine learning 
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
-  overlay_image: /assets/images/headshot.jpg
   actions:
     - label: "Projects"
       url: "/projects/"
@@ -34,12 +33,15 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+<img src="/assets/images/headshot.jpg" alt="Alex Atanassov headshot" style="width:220px; height:220px; object-fit:cover; border-radius:50%; display:block; margin:22px auto 10px auto;" />
+
+<p style="text-align:center; margin-top:0;">
+  <a href="https://github.com/alexatanassov">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/alexatanassov/">LinkedIn</a> ·
+  <a href="/resume/">Resume</a>
+</p>
+
 ## Summary
 Hi, I’m **Alex Atanassov** — an M.S. EE student focused on **robotics, perception, and machine learning**. I build end-to-end systems and evaluate them with clear metrics, demos, and reproducible code.
-
-## Quick Links
-- [GitHub](https://github.com/alexatanassov)
-- [LinkedIn](https://www.linkedin.com/in/alexatanassov/)
-- Resume: *(coming soon)*
 
 {% include feature_row %}
