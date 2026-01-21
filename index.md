@@ -2,7 +2,7 @@
 title: "Alex Atanassov"
 layout: splash
 permalink: /
-excerpt: "M.S. EE at UCSD focused on robotics, perception, and machine learning (SLAM, planning, segmentation, deployment)."
+excerpt: "M.S. Electrical Engineering (UC San Diego) focused on machine learning for perception (segmentation, deployment) and robotics (SLAM, planning)."
 
 header:
   overlay_color: "#000"
