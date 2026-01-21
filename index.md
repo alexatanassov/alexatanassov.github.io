@@ -16,5 +16,5 @@ Hi, I’m **Alex Atanassov** — an M.S. EE student focused on **robotics, perce
 
 ## Links
 - GitHub: https://github.com/alexatanassov
-- LinkedIn: (add your link)
-- Resume: (we’ll add a PDF link next)
+- LinkedIn: https://www.linkedin.com/in/alexatanassov/
+- Resume: (coming soon)
